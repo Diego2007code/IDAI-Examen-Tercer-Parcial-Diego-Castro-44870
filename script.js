@@ -5,12 +5,12 @@ const totalPowerDisplay = document.getElementById('totalPower');
 const powerBar = document.getElementById('powerBar');
 
 const characterImages = {
-    mario: "imagenes/mario.jpg",
-    bowser: "imagenes/bowser.jpg",
-    toad: "imagenes/toad.jpg",
-    peach: "imagenes/peach.jpg",
-    yoshi: "imagenes/yoshi.jpg",
-    luigi: "imagenes/luigi.jpg"
+    mario: "imagenes/Mario.jpg",
+    bowser: "imagenes/Bowser.jpg",
+    toad: "imagenes/Toad.jpg",
+    peach: "imagenes/Peach.jpg",
+    yoshi: "imagenes/Yoshi.jpg",
+    luigi: "imagenes/Luigi.jpg"
 };
 
 function updateInterface() {
